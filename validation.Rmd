@@ -14,7 +14,7 @@ vignette: >
   %\VignetteEngine{knitr::rmarkdown_notangle}
 header-includes:
   - \usepackage{array}
-  - \usepackage{color}
+  - \usepackage{xcolor}
   - \usepackage{float}
   - \usepackage{multirow}
   - \usepackage{longtable}
